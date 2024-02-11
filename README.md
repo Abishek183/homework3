@@ -1,2 +1,2 @@
-# Python_setup_homework2
+# Basic Calculator with functions
 It was fun doing the python setup and working on the calculator code.
